@@ -1,4 +1,5 @@
-﻿string mensagemDeBoasVindas = "Boas vindas ao Screen Sound";
+﻿// utlizamos o padrão camelCase e PascalCase para nomear funções, sendo a primeira letra maiúscula.
+string mensagemDeBoasVindas = "Boas vindas ao Screen Sound";
 
 void ExibirMensagemDeBoasVindas()
 {
